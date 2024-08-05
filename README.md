@@ -3,3 +3,4 @@ Various resources on visual art. If you claim (in response to the AI uprising) t
 
 # OTHER RESOURCES
 - https://t.me/coursebusters
+- https://www.lovelifedrawing.com/
