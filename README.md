@@ -16,7 +16,7 @@ This repo is intended to compile together resources that are understandable to s
 - https://www.lovelifedrawing.com/
 
 # BLENDER
-- https://docs.google.com/document/d/1uDsukeucSqkVJLtAWG4fQpMCuU1DnHcxY0lx5UFwWFY/edit?usp=sharing
+- Document (by me) with a table of shortcuts - https://docs.google.com/document/d/1uDsukeucSqkVJLtAWG4fQpMCuU1DnHcxY0lx5UFwWFY/edit?usp=sharing
   
 - https://www.youtube.com/playlist?list=PL3GeP3YLZn5hhfaGRSmRia0OwPPMfJu0V
 - https://www.youtube.com/watch?v=GAIZkIfXXjQ&ab_channel=JoeyCarlino
