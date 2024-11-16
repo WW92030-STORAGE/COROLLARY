@@ -5,7 +5,7 @@ This repo is intended to compile together resources that are understandable to s
 
 # MOTIVATION
 
-- This repo distributes resources for free. If you claim (in response to the AI uprising) that art isn't a gatekept pursuit then I can assume you will have no problems with this repo existing. If you wish to suggest a resource, provide insight, or just argue pointlessly with a programmer on this logical consequence of the art community's ideals you can contact me as NormalExisting on discord.
+- This repo distributes resources for free. If you claim (e.g. in response to the AI uprising) that art isn't a gatekept pursuit then I can assume you will have no problems with this repo existing. If you wish to suggest a resource, provide insight, or just argue pointlessly with a programmer on this logical consequence of the art community's ideals you can contact me as NormalExisting on discord.
 
 # VIDEO RESOURCES
 
